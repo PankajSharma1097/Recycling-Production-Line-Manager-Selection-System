@@ -1,0 +1,681 @@
+[
+  {
+    "id": 21,
+    "name": "Violet Cummerata",
+    "experience": 9,
+    "skills": [
+      "Leadership",
+      "Team Building",
+      "Recycling Ops",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 93,
+      "sustainability": 98,
+      "teamMotivation": 98,
+      "averageScore": 96
+    },
+    "rank": 1
+  },
+  {
+    "id": 4,
+    "name": "Devin Bayer",
+    "experience": 10,
+    "skills": [
+      "Safety",
+      "Crisis Mgmt",
+      "Leadership",
+      "Team Building"
+    ],
+    "evaluation": {
+      "crisisManagement": 100,
+      "sustainability": 80,
+      "teamMotivation": 100,
+      "averageScore": 93
+    },
+    "rank": 2
+  },
+  {
+    "id": 10,
+    "name": "Elsa Wolff",
+    "experience": 8,
+    "skills": [
+      "Team Building",
+      "Crisis Mgmt",
+      "Leadership",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 100,
+      "sustainability": 76,
+      "teamMotivation": 96,
+      "averageScore": 91
+    },
+    "rank": 3
+  },
+  {
+    "id": 1,
+    "name": "Bryant Wolf",
+    "experience": 8,
+    "skills": [
+      "Leadership",
+      "Crisis Mgmt",
+      "Team Building",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 100,
+      "sustainability": 71,
+      "teamMotivation": 96,
+      "averageScore": 89
+    },
+    "rank": 4
+  },
+  {
+    "id": 15,
+    "name": "Kristie Kertzmann PhD",
+    "experience": 9,
+    "skills": [
+      "Safety",
+      "Team Building",
+      "Recycling Ops",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 88,
+      "sustainability": 100,
+      "teamMotivation": 78,
+      "averageScore": 89
+    },
+    "rank": 5
+  },
+  {
+    "id": 20,
+    "name": "Kelley Haag",
+    "experience": 8,
+    "skills": [
+      "Recycling Ops",
+      "Team Building",
+      "Leadership"
+    ],
+    "evaluation": {
+      "crisisManagement": 81,
+      "sustainability": 86,
+      "teamMotivation": 96,
+      "averageScore": 88
+    },
+    "rank": 6
+  },
+  {
+    "id": 38,
+    "name": "Ivan Marquardt",
+    "experience": 10,
+    "skills": [
+      "Team Building",
+      "Recycling Ops",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 90,
+      "sustainability": 90,
+      "teamMotivation": 80,
+      "averageScore": 87
+    },
+    "rank": 7
+  },
+  {
+    "id": 3,
+    "name": "Clifford Heller DVM",
+    "experience": 9,
+    "skills": [
+      "Crisis Mgmt",
+      "Leadership",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 100,
+      "sustainability": 78,
+      "teamMotivation": 78,
+      "averageScore": 85
+    },
+    "rank": 8
+  },
+  {
+    "id": 19,
+    "name": "Gilbert Pacocha",
+    "experience": 10,
+    "skills": [
+      "Leadership",
+      "Team Building"
+    ],
+    "evaluation": {
+      "crisisManagement": 85,
+      "sustainability": 65,
+      "teamMotivation": 100,
+      "averageScore": 83
+    },
+    "rank": 9
+  },
+  {
+    "id": 6,
+    "name": "Willie Roberts DDS",
+    "experience": 5,
+    "skills": [
+      "Team Building",
+      "Crisis Mgmt",
+      "Recycling Ops",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 80,
+      "sustainability": 95,
+      "teamMotivation": 70,
+      "averageScore": 82
+    },
+    "rank": 10
+  },
+  {
+    "id": 28,
+    "name": "Wayne Christiansen",
+    "experience": 2,
+    "skills": [
+      "Leadership",
+      "Safety",
+      "Recycling Ops",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 79,
+      "sustainability": 99,
+      "teamMotivation": 64,
+      "averageScore": 81
+    },
+    "rank": 11
+  },
+  {
+    "id": 12,
+    "name": "Julia Gerhold DDS",
+    "experience": 5,
+    "skills": [
+      "Lean Manufacturing",
+      "Safety",
+      "Recycling Ops",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 90,
+      "sustainability": 100,
+      "teamMotivation": 50,
+      "averageScore": 80
+    },
+    "rank": 12
+  },
+  {
+    "id": 25,
+    "name": "William Gislason",
+    "experience": 1,
+    "skills": [
+      "Recycling Ops",
+      "Team Building",
+      "Lean Manufacturing",
+      "Leadership"
+    ],
+    "evaluation": {
+      "crisisManagement": 77,
+      "sustainability": 82,
+      "teamMotivation": 82,
+      "averageScore": 80
+    },
+    "rank": 13
+  },
+  {
+    "id": 7,
+    "name": "Arlene Paucek",
+    "experience": 7,
+    "skills": [
+      "Lean Manufacturing",
+      "Team Building",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 94,
+      "sustainability": 69,
+      "teamMotivation": 74,
+      "averageScore": 79
+    },
+    "rank": 14
+  },
+  {
+    "id": 14,
+    "name": "Wm Mohr",
+    "experience": 2,
+    "skills": [
+      "Safety",
+      "Leadership",
+      "Team Building",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 89,
+      "sustainability": 64,
+      "teamMotivation": 84,
+      "averageScore": 79
+    },
+    "rank": 15
+  },
+  {
+    "id": 33,
+    "name": "Debra Schinner",
+    "experience": 2,
+    "skills": [
+      "Safety",
+      "Leadership",
+      "Crisis Mgmt",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 99,
+      "sustainability": 74,
+      "teamMotivation": 64,
+      "averageScore": 79
+    },
+    "rank": 16
+  },
+  {
+    "id": 18,
+    "name": "Kenny Mosciski",
+    "experience": 8,
+    "skills": [
+      "Leadership",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 81,
+      "sustainability": 76,
+      "teamMotivation": 76,
+      "averageScore": 78
+    },
+    "rank": 17
+  },
+  {
+    "id": 26,
+    "name": "Kendra Franecki III",
+    "experience": 3,
+    "skills": [
+      "Leadership",
+      "Crisis Mgmt",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 91,
+      "sustainability": 76,
+      "teamMotivation": 66,
+      "averageScore": 78
+    },
+    "rank": 18
+  },
+  {
+    "id": 29,
+    "name": "Pauline Kertzmann",
+    "experience": 3,
+    "skills": [
+      "Leadership",
+      "Lean Manufacturing",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 81,
+      "sustainability": 86,
+      "teamMotivation": 66,
+      "averageScore": 78
+    },
+    "rank": 19
+  },
+  {
+    "id": 2,
+    "name": "Larry Bernier",
+    "experience": 1,
+    "skills": [
+      "Leadership",
+      "Lean Manufacturing",
+      "Crisis Mgmt",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 97,
+      "sustainability": 72,
+      "teamMotivation": 62,
+      "averageScore": 77
+    },
+    "rank": 20
+  },
+  {
+    "id": 8,
+    "name": "Alma Gleichner-Koelpin",
+    "experience": 5,
+    "skills": [
+      "Team Building",
+      "Lean Manufacturing",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 70,
+      "sustainability": 90,
+      "teamMotivation": 70,
+      "averageScore": 77
+    },
+    "rank": 21
+  },
+  {
+    "id": 11,
+    "name": "Derrick Farrell",
+    "experience": 10,
+    "skills": [
+      "Recycling Ops",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 70,
+      "sustainability": 100,
+      "teamMotivation": 60,
+      "averageScore": 77
+    },
+    "rank": 22
+  },
+  {
+    "id": 22,
+    "name": "Julian Morar",
+    "experience": 2,
+    "skills": [
+      "Recycling Ops",
+      "Team Building",
+      "Leadership"
+    ],
+    "evaluation": {
+      "crisisManagement": 69,
+      "sustainability": 74,
+      "teamMotivation": 84,
+      "averageScore": 76
+    },
+    "rank": 23
+  },
+  {
+    "id": 37,
+    "name": "Randolph Block",
+    "experience": 3,
+    "skills": [
+      "Team Building",
+      "Leadership",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 91,
+      "sustainability": 51,
+      "teamMotivation": 86,
+      "averageScore": 76
+    },
+    "rank": 24
+  },
+  {
+    "id": 23,
+    "name": "Courtney Block II",
+    "experience": 6,
+    "skills": [
+      "Recycling Ops",
+      "Safety",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 72,
+      "sustainability": 100,
+      "teamMotivation": 52,
+      "averageScore": 75
+    },
+    "rank": 25
+  },
+  {
+    "id": 27,
+    "name": "Leon Marvin",
+    "experience": 1,
+    "skills": [
+      "Team Building",
+      "Crisis Mgmt",
+      "Lean Manufacturing",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 82,
+      "sustainability": 82,
+      "teamMotivation": 62,
+      "averageScore": 75
+    },
+    "rank": 26
+  },
+  {
+    "id": 32,
+    "name": "Paulette Spencer",
+    "experience": 7,
+    "skills": [
+      "Recycling Ops",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 74,
+      "sustainability": 94,
+      "teamMotivation": 54,
+      "averageScore": 74
+    },
+    "rank": 27
+  },
+  {
+    "id": 34,
+    "name": "Victor Herzog",
+    "experience": 7,
+    "skills": [
+      "Recycling Ops",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 84,
+      "sustainability": 84,
+      "teamMotivation": 54,
+      "averageScore": 74
+    },
+    "rank": 28
+  },
+  {
+    "id": 35,
+    "name": "Margaret Dickinson",
+    "experience": 7,
+    "skills": [
+      "Recycling Ops",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 74,
+      "sustainability": 94,
+      "teamMotivation": 54,
+      "averageScore": 74
+    },
+    "rank": 29
+  },
+  {
+    "id": 36,
+    "name": "Raymond Miller",
+    "experience": 7,
+    "skills": [
+      "Lean Manufacturing",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 74,
+      "sustainability": 94,
+      "teamMotivation": 54,
+      "averageScore": 74
+    },
+    "rank": 30
+  },
+  {
+    "id": 24,
+    "name": "Dr. Lorenzo Kuhic",
+    "experience": 3,
+    "skills": [
+      "Lean Manufacturing",
+      "Crisis Mgmt",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 86,
+      "sustainability": 86,
+      "teamMotivation": 46,
+      "averageScore": 73
+    },
+    "rank": 31
+  },
+  {
+    "id": 17,
+    "name": "Angelica Jacobs V",
+    "experience": 6,
+    "skills": [
+      "Team Building",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 62,
+      "sustainability": 82,
+      "teamMotivation": 72,
+      "averageScore": 72
+    },
+    "rank": 32
+  },
+  {
+    "id": 31,
+    "name": "Lauren Murazik",
+    "experience": 7,
+    "skills": [
+      "Crisis Mgmt",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 94,
+      "sustainability": 69,
+      "teamMotivation": 54,
+      "averageScore": 72
+    },
+    "rank": 33
+  },
+  {
+    "id": 9,
+    "name": "Grant Bernier",
+    "experience": 2,
+    "skills": [
+      "Recycling Ops",
+      "Crisis Mgmt",
+      "Lean Manufacturing"
+    ],
+    "evaluation": {
+      "crisisManagement": 84,
+      "sustainability": 84,
+      "teamMotivation": 44,
+      "averageScore": 71
+    },
+    "rank": 34
+  },
+  {
+    "id": 13,
+    "name": "Sandy MacGyver",
+    "experience": 7,
+    "skills": [
+      "Lean Manufacturing",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 74,
+      "sustainability": 84,
+      "teamMotivation": 54,
+      "averageScore": 71
+    },
+    "rank": 35
+  },
+  {
+    "id": 40,
+    "name": "Evelyn Larkin",
+    "experience": 5,
+    "skills": [
+      "Lean Manufacturing",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 70,
+      "sustainability": 90,
+      "teamMotivation": 50,
+      "averageScore": 70
+    },
+    "rank": 36
+  },
+  {
+    "id": 30,
+    "name": "Darrell Koch",
+    "experience": 2,
+    "skills": [
+      "Safety",
+      "Recycling Ops",
+      "Crisis Mgmt"
+    ],
+    "evaluation": {
+      "crisisManagement": 74,
+      "sustainability": 89,
+      "teamMotivation": 44,
+      "averageScore": 69
+    },
+    "rank": 37
+  },
+  {
+    "id": 16,
+    "name": "Olivia Langworth",
+    "experience": 5,
+    "skills": [
+      "Lean Manufacturing",
+      "Team Building"
+    ],
+    "evaluation": {
+      "crisisManagement": 70,
+      "sustainability": 65,
+      "teamMotivation": 70,
+      "averageScore": 68
+    },
+    "rank": 38
+  },
+  {
+    "id": 39,
+    "name": "Russell Johnson PhD",
+    "experience": 5,
+    "skills": [
+      "Recycling Ops",
+      "Safety"
+    ],
+    "evaluation": {
+      "crisisManagement": 60,
+      "sustainability": 95,
+      "teamMotivation": 50,
+      "averageScore": 68
+    },
+    "rank": 39
+  },
+  {
+    "id": 5,
+    "name": "Willis Haley",
+    "experience": 1,
+    "skills": [
+      "Lean Manufacturing",
+      "Recycling Ops"
+    ],
+    "evaluation": {
+      "crisisManagement": 62,
+      "sustainability": 82,
+      "teamMotivation": 42,
+      "averageScore": 62
+    },
+    "rank": 40
+  }
+]
